@@ -5,10 +5,10 @@ A simple and elegant dessert product list with a functional shopping cart, built
 ---
 
 ## 🖼️ Project Preview
+https://chisom-tasty-cart.vercel.app
 
 ![Empty Cart View](./public/assets/preview-empty.jpg)
 ![Cart with Items](./public/assets/preview-selected.jpg)
-
 ---
 
 ## 🚀 Features
