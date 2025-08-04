@@ -7,7 +7,7 @@ A simple and elegant dessert product list with a functional shopping cart, built
 ## 🖼️ Project Preview
 
 ![Empty Cart View](./public/assets/preview-empty.jpg)
-![Cart with Items](./public/assets/preview-cart.jpg)
+![Cart with Items](./public/assets/preview-selected.jpg)
 
 ---
 
